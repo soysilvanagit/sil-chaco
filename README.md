@@ -1,2 +1,4 @@
 # sil-chaco
-Primer repo creado en github
+Primer repo creado en github 
+## descrpción 
+Este es un repo de soysilvana , creado solo para aprender programación 
